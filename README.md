@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on frontend
 - 📫 How to reach me www.linkedin.com/in/madit-mayor-aka-jon-dit-fb-811950a6
-- 😄 Pronouns: I, Me & Myself 
+- 😄 Pronouns: I & I (We,Us,Our)
 - ⚡ Fun fact: Super Charming
 
 <!---
