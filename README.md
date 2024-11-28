@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaditMayor
+- 👋 Hi, I’m Madit Mayor
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on frontend
